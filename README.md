@@ -71,7 +71,7 @@ Her müşteri için aşağıdaki 3 temel öznitelik (feature) matematiksel olara
 ## ⚠️ Önemli: Veri Seti Kurulumu (Dataset Setup)
 * GitHub dosya boyutu sınırları nedeniyle online_retail_II.xlsx veri seti bu repoya eklenmemiştir. Projeyi hatasız çalıştırmak için lütfen aşağıdaki adımları izleyin:
 
-* Buraya tıklayarak UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/502/online+retail+ii)'ye gidin.
+* Buraya tıklayarak UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/502/online+retail+ii) 'ye gidin.
 
 * Sayfadaki "Download" butonuna basarak dosyayı indirin.
 
