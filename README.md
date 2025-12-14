@@ -65,42 +65,46 @@ Her müşteri için aşağıdaki 3 temel öznitelik (feature) matematiksel olara
 ├── requirements.txt            # Proje bağımlılıkları
 └── README.md                   # Proje dökümantasyonu
 
--- 
+```
+---
 
 ## ⚠️ Önemli: Veri Seti Kurulumu (Dataset Setup)
-GitHub dosya boyutu sınırları nedeniyle online_retail_II.xlsx veri seti bu repoya eklenmemiştir. Projeyi hatasız çalıştırmak için lütfen aşağıdaki adımları izleyin:
+* GitHub dosya boyutu sınırları nedeniyle online_retail_II.xlsx veri seti bu repoya eklenmemiştir. Projeyi hatasız çalıştırmak için lütfen aşağıdaki adımları izleyin:
 
-Buraya tıklayarak UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/502/online+retail+ii)'ye gidin.
+* Buraya tıklayarak UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/502/online+retail+ii)'ye gidin.
 
-Sayfadaki "Download" butonuna basarak dosyayı indirin.
+* Sayfadaki "Download" butonuna basarak dosyayı indirin.
 
-İndirdiğiniz online_retail_II.xlsx dosyasını, proje klasörüne (app.py dosyasının yanına) atın.
+* İndirdiğiniz online_retail_II.xlsx dosyasını, proje klasörüne (app.py dosyasının yanına) atın.
 
-Artık projeyi çalıştırabilirsiniz! 🚀
+* Artık projeyi çalıştırabilirsiniz! 🚀
 
 ---
 
 🛠️ Kurulum ve Çalıştırma (Installation)
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+* Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
-1. Repoyu Klonlayın:
-
+* **1. Repoyu Klonlayın:**
+```
 Bash
 
 git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
 cd REPO_ADIN
+```
+* **2. Gerekli Kütüphaneleri Yükleyin:**
 
-2. Gerekli Kütüphaneleri Yükleyin:
-
+```
 Bash
 
 pip install -r requirements.txt
-3. Uygulamayı Başlatın:
-
+```
+* **3. Uygulamayı Başlatın:**
+```
 Bash
 
 streamlit run app.py
 
+```
 ---
 
 👨‍💻 Geliştirici (Author)
@@ -108,6 +112,6 @@ streamlit run app.py
 
 Proje ile ilgili sorularınız veya önerileriniz için:
 
-🔗 LinkedIn: [https://www.google.com/search?q=linkedin.com/in/profilin]
+🔗 LinkedIn: [https://www.linkedin.com/in/ilayda-%C3%B6zt%C3%BCrk-8768672a3]
 
-🔗 GitHub: [https://www.google.com/search?q=github.com/profilin]
+🔗 GitHub: [https://github.com/ilydozttrk]
